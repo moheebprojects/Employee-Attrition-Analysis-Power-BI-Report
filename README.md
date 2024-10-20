@@ -1,5 +1,4 @@
 # HR-Employee-Attrition-Analysis-Power-BI-Dashboard
-HR Employee Attrition Analysis Power BI Dashboard
 
 # Project Overview
 This project provides a comprehensive analysis of employee attrition at Salifort Motors using Power BI. The HR department sought data-driven insights to improve employee satisfaction and reduce turnover. By leveraging their dataset, I developed an interactive dashboard that helps HR and management teams identify factors influencing employee retention and attrition. The goal is to uncover key drivers behind employee departures, enabling the company to proactively address issues and enhance employee engagement and satisfaction.
