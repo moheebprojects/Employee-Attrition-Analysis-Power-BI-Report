@@ -37,6 +37,7 @@ Promotion Rate
 Average Tenure
 Work Accidents
 Visuals: Key cards and bar charts to display these metrics.
+
 ## 2. Attrition Analysis
 Purpose: Identify factors that contribute to employee attrition.
 Key Metrics:
@@ -45,6 +46,7 @@ Attrition Rate by Salary Level
 Attrition Rate by Satisfaction Level
 Attrition by Time Spent at Company
 Visuals: Stacked bar charts, line charts, and scatter plots to analyze these trends.
+
 ## 3. Employee Satisfaction and Performance
 Purpose: Explore the relationship between employee satisfaction and performance.
 Key Metrics:
@@ -52,6 +54,7 @@ Average Satisfaction by Department
 Performance vs. Satisfaction
 Work Accidents by Department
 Visuals: Heatmaps, scatter plots, and pie charts to visualize department-wise satisfaction and accidents.
+
 ## 4. Promotion and Tenure Analysis
 Purpose: Assess career development opportunities and their impact on employee retention.
 Key Metrics:
@@ -59,6 +62,7 @@ Promotion Rate by Department
 Average Tenure by Department and Salary
 Promotion vs Attrition
 Visuals: Bar charts, line charts, and clustered column charts to highlight promotion rates and tenure.
+
 ## 5. Workload and Project Distribution
 Purpose: Analyze workload distribution and its effect on attrition and satisfaction.
 Key Metrics:
@@ -66,6 +70,7 @@ Average Monthly Hours by Department
 Number of Projects vs Satisfaction
 Time Spent at Company vs Average Monthly Hours
 Visuals: Clustered column charts and scatter plots to visualize workload distribution across departments.
+
 ## 6. Employee Demographics and Salary Distribution
 Purpose: Understand workforce demographics and compensation trends.
 Key Metrics:
