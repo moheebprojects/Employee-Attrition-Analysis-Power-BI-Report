@@ -20,7 +20,7 @@ The dataset includes 15,000 rows and 10 columns, with the following variables:
 # Dashboard Components
 The dashboard consists of several key pages designed to provide HR with actionable insights:
 
-## 1. Executive Summary
+##1. Executive Summary
 Purpose: Provide a high-level overview of critical HR metrics for quick decision-making.
 Key Metrics:
 Overall Attrition Rate
@@ -30,7 +30,7 @@ Average Tenure
 Work Accidents
 Visuals: Key cards and bar charts to display these metrics.
 
-## 2. Attrition Analysis
+##2. Attrition Analysis
 Purpose: Identify factors that contribute to employee attrition.
 Key Metrics:
 Attrition Rate by Department
