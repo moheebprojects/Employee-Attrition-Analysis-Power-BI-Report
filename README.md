@@ -14,16 +14,8 @@ What are the factors that influence an employee to leave the company?
 # Dataset
 The dataset includes 15,000 rows and 10 columns, with the following variables:
 
-satisfaction_level: Employee-reported job satisfaction level [0–1]
-last_evaluation: Score of employee's last performance review [0–1]
-number_project: Number of projects employee contributes to
-average_monthly_hours: Average number of hours worked per month
-time_spend_company: Number of years the employee has been with the company
-Work_accident: Whether the employee experienced a workplace accident
-left: Target variable, indicating whether the employee left the company (1 = Yes, 0 = No)
-promotion_last_5years: Whether the employee was promoted in the last 5 years
-Department: The department where the employee works
-salary: Employee's salary categorized into "low", "medium", and "high"
+![image](https://github.com/user-attachments/assets/c719c2c7-dce6-4cc0-8740-380abfba160f)
+
 
 # Dashboard Components
 The dashboard consists of several key pages designed to provide HR with actionable insights:
