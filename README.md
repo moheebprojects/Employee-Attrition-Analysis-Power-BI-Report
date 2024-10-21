@@ -1,7 +1,7 @@
 # HR-Employee-Attrition-Analysis-Power-BI-Dashboard
 
 # Project Overview
-This project provides a comprehensive analysis of [Hr Analytics Job Prediction](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction/data)using Power BI. The HR department sought data-driven insights to improve employee satisfaction and reduce turnover. By leveraging their dataset, I developed an interactive dashboard that helps HR and management teams identify factors influencing employee retention and attrition. The goal is to uncover key drivers behind employee departures, enabling the company to proactively address issues and enhance employee engagement and satisfaction.
+This project provides a comprehensive analysis of [Hr Analytics Job Prediction](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction/data) using Power BI. The HR department sought data-driven insights to improve employee satisfaction and reduce turnover. By leveraging their dataset, I developed an interactive dashboard that helps HR and management teams identify factors influencing employee retention and attrition. The goal is to uncover key drivers behind employee departures, enabling the company to proactively address issues and enhance employee engagement and satisfaction.
 
 # Business Problem
 The HR Team is experiencing challenges with employee turnover and needs to understand what factors are driving employees to leave the company. Retaining employees is crucial for maintaining productivity and reducing the costs of hiring and training new employees. The HR department provided a dataset consisting of employee-related metrics, and this analysis aims to uncover key insights to guide HR strategies.
