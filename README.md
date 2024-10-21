@@ -78,6 +78,10 @@ Promotion Opportunities: Lack of promotions over a 5-year period increases the l
 Workload Balance: Excessive workloads in some departments correlate with lower satisfaction and higher attrition rates.
 
   <img width="482" alt="image" src="https://github.com/user-attachments/assets/22f78f52-0ebb-432e-b85e-efd723090c32">
+  <img width="479" alt="image" src="https://github.com/user-attachments/assets/1342911a-1459-47bc-91a0-b2b82c5631b6">
+  <img width="479" alt="image" src="https://github.com/user-attachments/assets/e6c5da43-b219-4968-b172-443fdfe984d6">
+  <img width="478" alt="image" src="https://github.com/user-attachments/assets/f2f72e4d-d07a-45c5-abb1-12e1c6c14605">
+  <img width="479" alt="image" src="https://github.com/user-attachments/assets/0c30b59d-59e9-42eb-98a1-32b99ee6288f">
 
 
 # Conclusion
