@@ -77,6 +77,9 @@ Salary Impact: Employees with lower salaries tend to leave the company more freq
 Promotion Opportunities: Lack of promotions over a 5-year period increases the likelihood of attrition, indicating the importance of career development pathways.
 Workload Balance: Excessive workloads in some departments correlate with lower satisfaction and higher attrition rates.
 
+<img width="482" alt="image" src="https://github.com/user-attachments/assets/22f78f52-0ebb-432e-b85e-efd723090c32">
+
+
 # Conclusion
 This dashboard provides the HR department with a powerful tool for visualizing and analyzing employee data. With these insights, HR can take targeted actions to improve employee retention, enhance job satisfaction, and foster a safer and more productive work environment. By addressing key drivers of attrition, Salifort Motors can reduce turnover and build a more engaged workforce.
 
