@@ -78,10 +78,8 @@ Workload Balance: Excessive workloads in some departments correlate with lower s
 
 
 # Conclusion
-This dashboard provides the HR department with a powerful tool for visualizing and analyzing employee data. With these insights, HR can take targeted actions to improve employee retention, enhance job satisfaction, and foster a safer and more productive work environment. By addressing key drivers of attrition, Salifort Motors can reduce turnover and build a more engaged workforce.
+This dashboard and report provides the HR department with a powerful tool for visualizing and analyzing employee data. With these insights, HR can take targeted actions to improve employee retention, enhance job satisfaction, and foster a safer and more productive work environment. By addressing key drivers of attrition, The company can reduce turnover and build a more engaged workforce.
 
-Dataset: The dataset used for this analysis is sourced from Kaggle. HR Employee Attrition Dataset.
-Power BI Documentation: Power BI Docs.
-Attrition Analysis Techniques: For more on HR analytics, check out this HR Analytics Resource.
-Ethical Considerations
+Dataset: The dataset used for this analysis is sourced from Kaggle. [Hr Analytics Job Prediction](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction/data)
+
 
