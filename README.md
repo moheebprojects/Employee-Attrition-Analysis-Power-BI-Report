@@ -81,7 +81,8 @@ Workload Balance: Excessive workloads in some departments correlate with lower s
   <img width="479" alt="image" src="https://github.com/user-attachments/assets/1342911a-1459-47bc-91a0-b2b82c5631b6">
   <img width="479" alt="image" src="https://github.com/user-attachments/assets/e6c5da43-b219-4968-b172-443fdfe984d6">
   <img width="478" alt="image" src="https://github.com/user-attachments/assets/f2f72e4d-d07a-45c5-abb1-12e1c6c14605">
-  <img width="479" alt="image" src="https://github.com/user-attachments/assets/0c30b59d-59e9-42eb-98a1-32b99ee6288f">
+  <img width="478" alt="image" src="https://github.com/user-attachments/assets/d1d81045-61f5-465a-9524-e08d084a59cf">
+
 
 
 # Conclusion
