@@ -12,8 +12,8 @@ What are the factors that influence an employee to leave the company?
 
 # Dataset
 The dataset includes 15,000 rows and 10 columns, with the following variables:
+![image](https://github.com/user-attachments/assets/428fbd02-7a9c-4b95-8bdc-39072c0d2398)
 
-![image](https://github.com/user-attachments/assets/c719c2c7-dce6-4cc0-8740-380abfba160f)
 
 
 # Dashboard Components
