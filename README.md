@@ -77,7 +77,7 @@ Salary Impact: Employees with lower salaries tend to leave the company more freq
 Promotion Opportunities: Lack of promotions over a 5-year period increases the likelihood of attrition, indicating the importance of career development pathways.
 Workload Balance: Excessive workloads in some departments correlate with lower satisfaction and higher attrition rates.
 
-<img width="482" alt="image" src="https://github.com/user-attachments/assets/22f78f52-0ebb-432e-b85e-efd723090c32">
+                     <img width="482" alt="image" src="https://github.com/user-attachments/assets/22f78f52-0ebb-432e-b85e-efd723090c32">
 
 
 # Conclusion
