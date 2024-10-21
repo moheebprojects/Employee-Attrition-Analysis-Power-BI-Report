@@ -62,14 +62,6 @@ Number of Projects vs Satisfaction
 Time Spent at Company vs Average Monthly Hours
 Visuals: Clustered column charts and scatter plots to visualize workload distribution across departments.
 
-### 6. Employee Demographics and Salary Distribution
-Purpose: Understand workforce demographics and compensation trends.
-Key Metrics:
-Salary Distribution
-Department Composition by Salary
-Promotion by Salary Level
-Visuals: Pie charts, stacked bar charts, and line charts to analyze salary trends and promotions.
-
 # Key Insights
 Attrition by Department: Some departments have significantly higher attrition rates than others, which may warrant further investigation.
 Satisfaction Levels: There is a strong correlation between low satisfaction levels and high attrition.
