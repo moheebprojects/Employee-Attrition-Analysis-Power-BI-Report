@@ -22,11 +22,11 @@ The dashboard consists of several key pages designed to provide HR with actionab
 ### 1. Executive Summary
 Purpose: Provide a high-level overview of critical HR metrics for quick decision-making.
 Key Metrics:
-Overall Attrition Rate
-Average Employee Satisfaction Level
-Promotion Rate
-Average Tenure
-Work Accidents
+Overall Attrition Rate, 
+Average Employee Satisfaction Level, 
+Promotion Rate, 
+Average Tenure, 
+Work Accidents,
 Visuals: Key cards and bar charts to display these metrics.
 
 ### 2. Attrition Analysis
