@@ -27,7 +27,7 @@ Overall Attrition Rate,
 Average Employee Satisfaction Level, 
 Promotion Rate, 
 Average Tenure, 
-Work Accidents,
+Work Accidents.
 
 Visuals: Key cards and bar charts to display these metrics.
 
@@ -38,7 +38,7 @@ Key Metrics:
 Attrition Rate by Department,
 Attrition Rate by Salary Level,
 Attrition Rate by Satisfaction Level,
-Attrition by Time Spent at Company,
+Attrition by Time Spent at Company.
 
 Visuals: Stacked bar charts, line charts, and scatter plots to analyze these trends.
 
@@ -47,18 +47,19 @@ Purpose: Explore the relationship between employee satisfaction and performance.
 
 Key Metrics:
 Average Satisfaction by Department,
-Performance vs. Satisfaction,
-Work Accidents by Department,
+Satisfaction vs. Hours Worked,
+Overall Satisfaction Levels,
+Satisfaction vs. Number of Projects.
 
-Visuals: scatter plots, and pie charts to visualize department-wise satisfaction and accidents.
+Visuals: scatter plot, and pie charts to visualize department-wise satisfaction and accidents.
 
-### 4. Promotion and Tenure Analysis
+### 4. Promotion and Salary Analysis
 Purpose: Assess career development opportunities and their impact on employee retention.
 
 Key Metrics:
-Promotion Rate by Department,
+Salry Rate by Department,
 Average Tenure by Department and Salary,
-Promotion vs Attrition,
+Promotion vs Attrition.
 
 Visuals: Bar charts, line charts, and clustered column charts to highlight promotion rates and tenure.
 
@@ -69,8 +70,9 @@ Key Metrics:
 Average Monthly Hours by Department,
 Number of Projects vs Satisfaction,
 Time Spent at Company vs Average Monthly Hours,
+Work Accidents by Department.
 
-Visuals: Clustered column charts and scatter plots to visualize workload distribution across departments.
+Visuals: scatter plot, Clustered column charts and scatter plots to visualize workload distribution across departments.
 
 # Key Insights
 Attrition by Department: Some departments have significantly higher attrition rates than others, which may warrant further investigation.
